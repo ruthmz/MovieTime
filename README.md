@@ -22,7 +22,7 @@ Público Objetivo:
 
 
 ## ETAPAS
-### INVESTIGACIÓN
+### 1. INVESTIGACIÓN
 
 #### Benchmarking
 #### Entrevistas
@@ -33,16 +33,30 @@ Público Objetivo:
 ![Encuestas](assets/tres.JPG "Encuesta")
 ![Encuestas](assets/cuatro.JPG "Encuesta")
 
-### SINTESIS E IDEACIÓN
+### 2. SINTESIS E IDEACIÓN
 
 #### Diagrama de Afinidad
 
-![Diagrama de Afinidad](assets/affinity_map.JPG	 "Diagrama")
+Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes de las respuestas. Los temas encontrados fueron :
 
+![Diagrama de Afinidad](assets/affinity_map.JPG	 "Diagrama")
+https://realtimeboard.com/app/board/o9J_kzs5iMw=/
+
+**CONCEPTUALIZACIÓN**
+
+En base a la información recabada decidimos enfocarnos en los siguientes beneficios para los usuarios:
+- Crear listas personalizadas de sus películas
+- Escribir reseñas e acceder a información de películas
+- Compartir esa información con sus amigos
+- Agregar a sus amigos y compartir sus actividades por redes sociales(FB, twitter)
+- Sugerencias de películas basadas en su preferencia/historial
 
 #### User Persona
 
 ![User Persona](assets/user_persona.png	 "User")
+https://app.xtensio.com/folio/ay2soxd5
+
+### 3. PROTOTIPADO Y TESTING
 
 
 
