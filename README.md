@@ -58,5 +58,27 @@ https://app.xtensio.com/folio/ay2soxd5
 
 ### 3. PROTOTIPADO Y TESTING
 
+#### PAPER PROTOTYPING
+Los primeros testing se realizaron en papel y el feedback que obtuvimos fue el siguiente:
+
+- Pensaron que se trataba de una página para ver películas online.
+- Les agrado la opción de poder compartir sus reseñas y listas con sus amigos.
+- Sugirieron otro orden para los iconos de puntuación, ver más tarde y favoritos dentro de una películas especifica.
+- Les parecio sencillo de usar.
+- Confusión entre la sección de reseñas y listas.
+- Querían agregar más opciones a la sección de Mi cuenta.
+
+
+#### ALTA FIFELIDAD
+Se priorizo el MPV, y se realizaron lo flujos de "Ingreso a cuenta", "Añadir reseña", "Crear Lista"
+
+- Le gustaron los colores
+- Querían ver mas interacción
+- Les gustaron los colores
+- Les gustaría que haya una sección de trivia o noticias relacionadas al cine.
+
+Link de marvel: https://marvelapp.com/14gh85fg/screen/40091260
+
+
 
 
