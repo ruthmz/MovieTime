@@ -34,8 +34,15 @@ Público Objetivo:
 ![Encuestas](assets/cuatro.JPG "Encuesta")
 
 ### SINTESIS E IDEACIÓN
+
+#### Diagrama de Afinidad
+
+![Diagrama de Afinidad](assets/affinity map.JPG "Diagrama")
+
+
 #### User Persona
 
+![User Persona](assets/user persona.png "User")
 
 
 
