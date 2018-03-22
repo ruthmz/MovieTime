@@ -37,12 +37,12 @@ Público Objetivo:
 
 #### Diagrama de Afinidad
 
-![Diagrama de Afinidad](assets/affinity map.JPG "Diagrama")
+![Diagrama de Afinidad](assets/affinity_map.JPG	 "Diagrama")
 
 
 #### User Persona
 
-![User Persona](assets/user persona.png "User")
+![User Persona](assets/user_persona.png	 "User")
 
 
 
