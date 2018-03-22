@@ -27,3 +27,9 @@ Público Objetivo:
 #### Benchmarking
 #### Entrevistas
 #### Encuestas
+
+![Encuestas](assets/uno.JPG "Encuesta")
+![Encuestas](assets/dos.JPG "Encuesta")
+![Encuestas](assets/tres.JPG "Encuesta")
+![Encuestas](assets/cuatro.JPG "Encuesta")
+
