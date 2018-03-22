@@ -25,7 +25,21 @@ Público Objetivo:
 ### 1. INVESTIGACIÓN
 
 #### Benchmarking
+
+![Benchmark](assets/benchmark.jpg	 "Benchmark")
+
 #### Entrevistas
+
+Se realizaron entrevistas a profundidad a 7 personas para poder recabar sus hábitos y preferencias al momento de ver una película. Los principales datos que encontramos fueron los siguientes:
+
+- Utilizan Netflix para ver películas.
+- No se cambiarían de servicio (Netflix), a no ser que el nuevo que adquieren les brinde muchos más beneficios y un menor precio.
+- Prefieren ver videos cuando  estan en casa, pero también los miran cuando estan en el transporte público.
+- Utilizan diferentes apps sociales en su celular.
+- Al momento de elegir que película la mayoría recurre a internet para buscar recomendaciones.
+- Algunas preguntan a amigos por recomendaciones.
+
+
 #### Encuestas
 
 ![Encuestas](assets/uno.JPG "Encuesta")
