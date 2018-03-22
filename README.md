@@ -12,6 +12,8 @@ Conocer las principales necesidades y hábito de los usuarios al momento de eleg
 Público Objetivo:
 - Jóvenes  entre 18 y 37 años.
 
+#### Business Model Canvas
+https://canvanizer.com/canvas/wz0SToq3SCOGY
 
 #### HERRAMIENTAS
 - Benchmarking
