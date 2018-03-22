@@ -1,4 +1,4 @@
-# CINETIME
+# MOVIETIME
 
 El proyecto consiste en la creción de una comunidad social que permite a los usuarios crear y compartir con sus amigos reseñas listas personalizadas de las peliculas que han visto.
 
@@ -22,7 +22,7 @@ Público Objetivo:
 
 
 ## ETAPAS
-###INVESTIGACIÓN
+### INVESTIGACIÓN
 
 #### Benchmarking
 #### Entrevistas
@@ -32,4 +32,10 @@ Público Objetivo:
 ![Encuestas](assets/dos.JPG "Encuesta")
 ![Encuestas](assets/tres.JPG "Encuesta")
 ![Encuestas](assets/cuatro.JPG "Encuesta")
+
+### SINTESIS E IDEACIÓN
+#### User Persona
+
+
+
 
