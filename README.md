@@ -1,6 +1,11 @@
 # MOVIETIME
 
-El proyecto consiste en la creción de una comunidad social que permite a los usuarios crear y compartir con sus amigos reseñas listas personalizadas de las peliculas que han visto.
+El proyecto consiste en la creción de una comunidad social que permite a los usuarios crear y compartir con sus amigos reseñas y listas personalizadas de las peliculas que han visto.
+
+![image](https://user-images.githubusercontent.com/32310744/38774159-2f42b212-4027-11e8-974c-4bbe6383ae08.png)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 ## OBJETIVO DEL PROYECTO
 Reducir el tiempo de los usuarios al momento de buscar información y brindarles un sitio de navegación sencilla y entretenida.
